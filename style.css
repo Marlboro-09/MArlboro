@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+}
+.Black{
+    border: red outset;
+    width: 140px;
+}
+.Black:hover{
+    color: #fc0fc0 ;
+    word-spacing: 10px;
+    font-size: 20px;
+    text-decoration: black underline;
+    border: none;
+}
+.lox{
+    list-style-type: square;
+}
+img{
+    float: right;
+    width: 250px;
+
+}
+h5{
+    font-size: 20px;
+}
+h5,.country{
+    float: right;
+}
+.Pink{
+    color: #fc0fc0 ;
+}
+h4{
+    float: left;
+    font-size: 23px;
+    position: relative;
+    top: -px;
+}
+span{
+    position: relative;
+    left: -65px;
+}
+.white{
+    font-size: 23px;
+    position: relative;
+    left: 1100px;
+    top: -120px;
+}
+.yellow{
+    font-size: 18px;
+    position: relative;
+    left: 1070px;
+    top: -120px;
+}
